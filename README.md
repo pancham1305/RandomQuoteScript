@@ -1,1 +1,3 @@
-# RandomQuoteScript
+## RandomQuoteScript
+#### Dependencies
+- curl
